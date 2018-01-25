@@ -1,7 +1,7 @@
 # MovieInfo App
 JavaScript/jQuery app that fetches movie data from the OMDb API
 
-# Run Local Server
+## Run Local Server
 ```bash
 $npm install -g live-server
 $live-server
